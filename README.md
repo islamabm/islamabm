@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there I'm islam 👋
 
 
-#### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://www.freecodecamp.org/news/content/images/2022/01/ferenc-almasi-L8KQIPCODV8-unsplash.jpg)
 
 Hello! I'm islam , a dedicated and passionate Full Stack Web Developer with over 1 year of experience in designing and developing innovative web applications. My love for coding and problem-solving started at a young age, and since then, I have been committed to learning and mastering new technologies to create efficient and user-friendly applications.
