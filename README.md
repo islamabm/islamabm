@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Hi there 👋, Islam
+
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://www.freecodecamp.org/news/content/images/2022/01/ferenc-almasi-L8KQIPCODV8-unsplash.jpg)
 
