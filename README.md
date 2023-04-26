@@ -15,7 +15,7 @@ When I am not coding, I enjoy photography, or playing the guitar
 
 Skills: VUE JS / REACT / JS / HTML / CSS/SCSS/ANGULAR/MongoDB/Node.js/SQL/
 
-- 🔭 I’m currently working on this page. 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/islam-abo-mokh-b8b4a9271/)  
